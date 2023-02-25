@@ -13,9 +13,9 @@ int num_digit(int n);
 /* Main Program entry */
 int main(void)
 {
-        long int dig = 1;
+        int dig = 123456;
         
-        printf("There (is)/are %ld digits in %ld\n", num_digit(dig), dig);
+        printf("There (is)/are %d digits in %d\n", num_digit(dig), dig);
         return (0);
 }
 
