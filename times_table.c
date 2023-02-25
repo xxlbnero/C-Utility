@@ -1,4 +1,10 @@
 #include <stdio.h>
+/**
+ * main - print the times table up to nine
+ * using putchar function only.
+ * @void: no argument required
+ * Return: 0 on successful execution of code
+*/
 
 int main(void)
 {
